@@ -10,16 +10,12 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 ```
-def result(a, b):
-    modulo_value = a % b
-    print("modulo is",modulo_value)
-c=int(input())
-d=int(input())
-result(c,d)
+a=16 
+print(bin(a)
 ```
 
 ## Output
-<img width="928" height="402" alt="image" src="https://github.com/user-attachments/assets/81e835a7-b528-4a3b-ba73-5a34bd99d7a5" />
+<img width="766" height="337" alt="image" src="https://github.com/user-attachments/assets/b0b1d609-3289-459c-b7b8-394f5844b610" />
 
 ## Result
-The program to return two values modulo is successful.
+Thus, the program has been successfully executed
